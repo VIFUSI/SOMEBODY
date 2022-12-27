@@ -1,0 +1,21 @@
+[server]
+host = '0.0.0.0'
+
+port = 8080
+
+
+[s3]
+bucket = 'sca'
+
+
+[redis]
+host = 'c-c9q8nnkqmtjumsphicog.rw.mdb.yandexcloud.net'
+
+port = 6379
+
+password = 'azino777'
+
+
+[ydb]
+
+database = '/ru-central1/b1g2u7mv7p7pdd0r296j/etnmi82ek9jivhbdau37'
